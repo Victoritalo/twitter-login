@@ -36,7 +36,6 @@ header {
 }
 
 label {
-	width: 200px;
 	padding-right: 24px;
 }
 
@@ -50,6 +49,7 @@ input {
 	margin: 10px 0px;
 	outline: none;
 }
+
 
 button {
 	background-color: #00acee;
